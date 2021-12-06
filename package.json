@@ -21,12 +21,12 @@
     "dependencies": {
         "bufferutil": "^4.0.5",
         "discord.js": "^13.3.1",
-        "erlpack": "^0.1.3",
+        "erlpack": "discord/erlpack",
         "moment": "^2.29.1",
         "utf-8-validate": "^5.0.7",
         "zlib-sync": "^0.1.7"
     },
     "devDependencies": {
-        "eslint": "^8.3.0"
+        "eslint": "^8.4.0"
     }
 }
